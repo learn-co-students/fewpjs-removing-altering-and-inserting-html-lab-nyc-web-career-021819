@@ -127,8 +127,7 @@ element.style.backgroundColor = '#27647B';
 
 You've changed what's on the screen!
 
-Feel free to set as many properties as you'd like — this is a good chance to
-look around and explore different properties of DOM elements.
+Feel free to set as many properties as you'd like — this e different properties of DOM elements.
 
 Let's adjust the display:
 
